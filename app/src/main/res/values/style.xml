@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Buttons" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:textColor">@color/red_200</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="Buttons.RedRounded">
+        <item name="android:background">@drawable/shape_red_rounded</item>
+        <item name="backgroundTint">@null</item>
+    </style>
+
+</resources>

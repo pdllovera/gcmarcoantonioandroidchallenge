@@ -15,6 +15,14 @@
     </style>
     <!-- Theme use to load black color at splash-->
     <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
-        <item name="android:background">@color/black</item>
+        <item name="android:background">@color/white</item>
     </style>
+
+    <style name="MainTheme" parent="Theme.AppCompat.NoActionBar">
+    </style>
+
+    <style name="ErrorDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowBackground">@color/transparent</item>
+    </style>
+
 </resources>

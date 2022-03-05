@@ -1,3 +1,30 @@
 <resources>
     <string name="app_name">Android Challege</string>
+
+    <!--service generic error-->
+    <string name="empty_string" />
+    <string name="url_unreachable">No pudimos establecer comunicación.\n\nVerifica tu conexión a internet e intenta nuevamente.</string>
+    <string name="accept_policy_terms">Debes aceptar las políticas de pago</string>
+    <string name="accept_terms_and_conditions">Para continuar, es necesario que aceptes los términos y condiciones.</string>
+    <string name="gps_not_enabled">Tu GPS esta desactivado, ¿Deseas activarlo ahora?</string>
+    <string name="error_pay_another_line">Número inválido, Ingresa un número Telnor de 10 dígitos</string>
+    <string name="txt_unknown_error">¡Lo sentimos! Por el momento, este servicio no está disponible. Favor de intentar más tarde.</string>
+
+    <!--buttons-->
+    <string name="b_accept">Aceptar</string>
+    <string name="b_cancel">Cancelar</string>
+    <string name="b_skip">Saltar</string>
+    <string name="b_enter">Iniciar</string>
+    <string name="b_sign_in">Registrarme</string>
+    <string name="b_log_in">Iniciar Sesión</string>
+    <string name="b_understand">Entendido</string>
+    <string name="b_cancel_paperless">Desactivar</string>
+    <string name="b_pay_bill">Pagar</string>
+    <string name="b_telcel_payment">Pago de Factura\nTelcel</string>
+    <string name="b_telcel_hire">Contrata\nTelcel</string>
+    <string name="b_save">Guardar</string>
+
+    <!-- Google maps -->
+    <string name="google_maps_key">AIzaSyChSXcICQsH7TQl9iEXgRBPSoesp3fMj_U</string>
+
 </resources>
